@@ -129,7 +129,7 @@ assets:
     # only works if `assets.self_host.enabled` is 'true'
     env: # [development|production]
 
-paginate: 10
+paginate: 12
 
 # ------------ The following options are not recommended to be modified ------------------
 
