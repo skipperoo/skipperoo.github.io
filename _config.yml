@@ -29,10 +29,10 @@ description: >- # used by seo meta and the atom feed
   A handbook for sysadmins and linux users
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://skiby7.github.io"
+url: "https://skipperoo.github.io"
 
 github:
-  username: Skiby7 # change to your github username
+  username: Skipperoo # change to your github username
 
 twitter:
   username: leo_scoppio # change to your twitter username
@@ -45,7 +45,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/leo_scoppio # change to your twitter homepage
-    - https://github.com/skiby7 # change to your github homepage
+    - https://github.com/skipperoo # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/leonardo-scoppitto-85bba9199
@@ -129,7 +129,7 @@ assets:
     # only works if `assets.self_host.enabled` is 'true'
     env: # [development|production]
 
-paginate: 10
+paginate: 12
 
 # ------------ The following options are not recommended to be modified ------------------
 
